@@ -20,7 +20,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342350/vue-js.svg" alt="vue" width="40" height="40"/> </a>
 </p>
 
-- 🔭 I’m currently working on open source software
+- 🔭 I’m currently working on open source software and private projects with Kickoff Works
 - 🌱 I’m currently learning Rust, Golang
 - 👯 I’m looking to collaborate on enterprise grade applications or modded video game servers
 - 🤔 I’m looking for help with the above :)
