@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm João or JP</h1>
 <h3 align="center">I'm a 23 year old self-thought software engineer and architect with expertise mainly on .NET. I am also very passionate about DevOps and anything Cloud related.</h3>
 
-![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao00paixao)
+<!---![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao00paixao)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
+-->
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -13,10 +18,6 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342350/vue-js.svg" alt="vue" width="40" height="40"/> </a>
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
 </p>
 
 - 🔭 I’m currently working on open source software
