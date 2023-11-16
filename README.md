@@ -21,10 +21,10 @@
 </p>
 
 - 🔭 I’m currently working on open source software and private projects with Kickoff Works
-- 🌱 I’m currently learning Rust, Golang
+- 🌱 I’m currently learning Rust and Golang
 - 👯 I’m looking to collaborate on enterprise grade applications or modded video game servers
 - 🤔 I’m looking for help with the above :)
 - 💬 Ask me about .NET, Software Architecture, video games, etc
-- 📫 How to reach me: You can email me at joao00paixao@gmail.com
-- ⚡ Fun fact: ...
+- 📫 How to reach me: You can email me at joao00paixao@gmail.com or through Discord @sackforever
+- ⚡ Fun fact: I was ranked as one of the best EU/world players in Rocket League and won several tournaments/LANs once upon a time? 👀
 
