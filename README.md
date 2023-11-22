@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm João or JP</h1>
 <h3 align="center">I'm a 23 year old self-thought software engineer and architect with expertise mainly on .NET. I am also very passionate about DevOps and anything Cloud related.</h3>
 
+<h4>Founder of Kickoff Works (C)</h4>
+
 <!---![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao00paixao)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
