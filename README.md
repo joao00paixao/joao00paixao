@@ -7,12 +7,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
-</p>
+</div>
 
 <h3 align="center ">Languages and Tools:</h3>
-<p align="center"> 
+<div align="center"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -20,7 +20,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342350/vue-js.svg" alt="vue" width="40" height="40"/> </a>
-</p>
+</div>
 
 
 - 🔭 I’m currently working on open source software and private projects with Kickoff Works
@@ -33,9 +33,9 @@
 
 <br>
 
-<p>
+<div>
 
-<a href="https://leetcode.com/joao00paixao/"><img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-<a href="https://github.com/joao00paixao"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  <a href="https://leetcode.com/joao00paixao/"><img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+  <a href="https://github.com/joao00paixao"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
   
-</p>
+</div>
