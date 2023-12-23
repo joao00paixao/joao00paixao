@@ -7,12 +7,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center ">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -22,6 +22,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342350/vue-js.svg" alt="vue" width="40" height="40"/> </a>
 </p>
 
+
 - 🔭 I’m currently working on open source software and private projects with Kickoff Works
 - 🌱 I’m currently learning Rust and Golang
 - 👯 I’m looking to collaborate on enterprise grade applications or modded video game servers
@@ -30,3 +31,11 @@
 - 📫 How to reach me: You can email me at joao00paixao@gmail.com or through Discord @sackforever
 - ⚡ Fun fact: I was ranked as one of the best EU/world players in Rocket League and won several tournaments/LANs once upon a time? 👀
 
+<br>
+
+<p>
+
+<a href="https://leetcode.com/joao00paixao/"><img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<a href="https://github.com/joao00paixao"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+  
+</p>
