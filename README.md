@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm João or JP</h1>
-<h3 align="center">I'm a 23 year old self-thought software engineer and architect with expertise mainly on .NET. I am also very passionate about DevOps and anything Cloud related.</h3>
+<h3 align="center">I'm a 23 year old self-taught software engineer and architect with expertise mainly on .NET. I am also very passionate about DevOps and anything Cloud related.</h3>
 
 <h4 align="center" style="margin-bottom:20px">Kickoff Works Cofounder, Software Engineer</h4>
 <h5 align="center">Check my technologies, experience and services on my website below. 👇</h5>
