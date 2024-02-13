@@ -6,7 +6,7 @@
 <!---![JP's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao00paixao)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
-[<a href="https://www.paixao.dev" style="color: rgb(74 222 128);text-decoration:none"><h1 align="center" style="color: rgb(74 222 128); padding-bottom:20px; font-weight:bold;">www.paixao.dev</h1> </a>](https://www.paixao.dev)
+<a href="https://www.paixao.dev" style="color: rgb(74 222 128);text-decoration:none"><h1 align="center" style="color: rgb(74 222 128); padding-bottom:20px; font-weight:bold;">https://www.paixao.dev</h1> </a>
 
 
 
