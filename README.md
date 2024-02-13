@@ -12,9 +12,8 @@
 </div>
 
 <h3 align="center ">Languages and Tools:</h3>
-<div align="center"> 
+
   <iframe src="www.paixao.dev/about"  title="About Me"></iframe>
-</div>
 
 
 - 🔭 I’m currently working on open source software and private projects with Kickoff Works
