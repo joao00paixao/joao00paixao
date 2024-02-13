@@ -8,12 +8,12 @@
 -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&" alt="joao00paixao" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&"  alt="joao00paixao" />
 </div>
 
 <h3 align="center ">Languages and Tools:</h3>
 <div align="center"> 
-  <iframe src="https://www.paixao.dev/about" style="width: 100%"></iframe>
+  <iframe src="www.paixao.dev/about"  title="About Me"></iframe>
 </div>
 
 
