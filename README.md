@@ -13,13 +13,7 @@
 
 <h3 align="center ">Languages and Tools:</h3>
 <div align="center"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342350/vue-js.svg" alt="vue" width="40" height="40"/> </a>
+  <iframe src="https://www.paixao.dev/about" style="width: 100%"></iframe>
 </div>
 
 
