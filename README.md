@@ -7,11 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
 
-<h1 align="center" style="color: #4ADE80; font-weight: bold; padding-bottom: 20px;">paixao.dev</h1>
+<p align="center" style="color: #4ADE80; font-weight: bold; font-size:60px">paixao.dev</p>
 
-<p align="center" style="font-size: 14px;">
+<h2 align="center" style="font-size: 14px; padding-bottom:25px">
   <a href="https://www.paixao.dev" style="color: #4ADE80; font-weight: bold; text-decoration: none;">https://www.paixao.dev</a>
-</p>
+</h2>
 
 
 
