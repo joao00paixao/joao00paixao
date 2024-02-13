@@ -9,10 +9,6 @@
 
   <h1 align="center" style="color: rgb(74 222 128); padding-bottom:20px; font-weight:bold;text-decoration:none;">
   www.paixao.dev
-  <br>
-      <span align="center" style="color: rgb(74 222 128); padding-bottom:20px; font-weight:bold;text-decoration:none;text-decoration:underline;font-size:14px">
-    https://www.paixao.dev
-    </span> 
   </h1> 
 
 
