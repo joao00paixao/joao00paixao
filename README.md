@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
 
-<h1 align="center" style="color: #4ADE80; font-weight: bold; font-size:60px">www.paixao.dev</h1>
+<h1 align="center" style="color: #4ADE80; font-weight: bold; font-size:60px; padding-bottom:20px">www.paixao.dev</h1>
 
 
 
