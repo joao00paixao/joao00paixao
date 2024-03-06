@@ -32,7 +32,9 @@
 
 <div align="center" style="padding-bottom:10px;padding-top:10px">
 
-  <a href="https://leetcode.com/joao00paixao/"><img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark&font=baloo&extension=null"></a>
+  <a href="https://leetcode.com/joao00paixao/">
+  <img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark">
+  </a>
   
 </div>
 
