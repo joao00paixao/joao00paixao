@@ -10,6 +10,8 @@
 
 <h1 align="center" style="color: #4ADE80; font-weight: bold; font-size:60px; margin-bottom:20px">www.paixao.dev</h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao00paixao/)
+
 
 
 
@@ -18,9 +20,12 @@
 <h4 align="center">My Github Stats 🔥</h4>
 
 <div align="center" style="padding-bottom:10px;padding-top:10px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&"  alt="joao00paixao" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&theme=dark&hide_border=true"  alt="joao00paixao" />
 </div>
 
+<div align="center" style="padding-bottom:10px;padding-top:10px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&theme=dark&hide_border=true(https://github-readme-stats.vercel.app/api/wakatime?username=joao00paixao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)"  alt="joao00paixao" />
+</div>
 
 <h4 align="center">A little About Me</h4>
 
