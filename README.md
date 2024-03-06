@@ -24,7 +24,7 @@
 </div>
 
 <div align="center" style="padding-bottom:10px;padding-top:10px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao00paixao&theme=dark&hide_border=true(https://github-readme-stats.vercel.app/api/wakatime?username=joao00paixao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10)"  alt="joao00paixao" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joao00paixao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10"  alt="joao00paixao" />
 </div>
 
 <h4 align="center">A little About Me</h4>
