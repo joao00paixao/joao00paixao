@@ -9,7 +9,9 @@
 -->
 
 <div align="center" style="padding-bottom:10px;padding-top:10px">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao00paixao/)
+  <a href="https://www.linkedin.com/in/joao00paixao/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"> </img>
+  </a>
 </div>
 
 <h1 align="center" style="color: #4ADE80; font-weight: bold; font-size:60px; margin-bottom:20px">www.paixao.dev</h1>
