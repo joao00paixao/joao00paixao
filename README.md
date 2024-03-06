@@ -8,9 +8,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00paixao&layout=compact&theme=transparent)
 -->
 
+<div align="center" style="padding-bottom:10px;padding-top:10px">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao00paixao/)
+</div>
+
 <h1 align="center" style="color: #4ADE80; font-weight: bold; font-size:60px; margin-bottom:20px">www.paixao.dev</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao00paixao/)
 
 
 
