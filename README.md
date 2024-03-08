@@ -28,15 +28,16 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=joao00paixao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=10"  alt="joao00paixao" />
 </div>
 
-<h4 align="center">My Leetcode Stats 🔥</h4>
+<!---<h4 align="center">My Leetcode Stats 🔥</h4>
 
 <div align="center" style="padding-bottom:10px;padding-top:10px">
 
   <a href="https://leetcode.com/joao00paixao/">
   <img width="48%" src="https://leetcode.card.workers.dev/joao00paixao?theme=dark">
   </a>
-  
 </div>
+
+--->
 
 <h4 align="center">My Languages 🔥</h4>
 
